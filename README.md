@@ -34,8 +34,7 @@ Upload PDFs, ask questions, and get conversational answers with context and hist
 
 ├── app1.py # Main Streamlit app (rename as needed)
 
-├── app.py # (Optional) earlier version / archive – not uploaded
-
+├── app.py # (Optional) earlier version / archive 
 └── … # other files e.g. .venv, temp files
 
 
